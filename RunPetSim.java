@@ -8,7 +8,7 @@ import java.util.*;
  * @assignment ICS 111 Final Exam
  * @date       08/14/20
  * @bugs       Wasn't able to continously let user input name/type
- *             until valid :(( 
+ *             until valid :(
  */
 
 public class LiaoJiahuiFINAL {
